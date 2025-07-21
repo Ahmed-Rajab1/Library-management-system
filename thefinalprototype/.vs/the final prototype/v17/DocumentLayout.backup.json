@@ -1,0 +1,65 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ahmed Rajab\\source\\repos\\the final prototype\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C24ECF2-0CB2-46AB-BBE0-F0797531FD54}|the final prototype\\the final prototype.vcxproj|C:\\Users\\Ahmed Rajab\\source\\repos\\the final prototype\\the final prototype\\the sAccount.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7C24ECF2-0CB2-46AB-BBE0-F0797531FD54}|the final prototype\\the final prototype.vcxproj|solutionrelative:the final prototype\\the sAccount.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C24ECF2-0CB2-46AB-BBE0-F0797531FD54}|the final prototype\\the final prototype.vcxproj|C:\\Users\\Ahmed Rajab\\source\\repos\\the final prototype\\the final prototype\\students.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7C24ECF2-0CB2-46AB-BBE0-F0797531FD54}|the final prototype\\the final prototype.vcxproj|solutionrelative:the final prototype\\students.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "students.txt",
+              "DocumentMoniker": "C:\\Users\\Ahmed Rajab\\source\\repos\\the final prototype\\the final prototype\\students.txt",
+              "RelativeDocumentMoniker": "the final prototype\\students.txt",
+              "ToolTip": "C:\\Users\\Ahmed Rajab\\source\\repos\\the final prototype\\the final prototype\\students.txt",
+              "RelativeToolTip": "the final prototype\\students.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-01T12:58:44.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "the sAccount.cpp",
+              "DocumentMoniker": "C:\\Users\\Ahmed Rajab\\source\\repos\\the final prototype\\the final prototype\\the sAccount.cpp",
+              "RelativeDocumentMoniker": "the final prototype\\the sAccount.cpp",
+              "ToolTip": "C:\\Users\\Ahmed Rajab\\source\\repos\\the final prototype\\the final prototype\\the sAccount.cpp",
+              "RelativeToolTip": "the final prototype\\the sAccount.cpp",
+              "ViewState": "AgIAAGsIAAAAAAAAAAAAAGAIAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-22T13:11:46.164Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

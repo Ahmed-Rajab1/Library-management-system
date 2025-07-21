@@ -1,0 +1,550 @@
+Clean Code: A Handbook of Agile Software Craftsmanship
+Robert C. Martin
+Programming
+1st Edition
+1
+0
+0
+464
+1
+8
+2008
+To Kill a Mockingbird
+Harper Lee
+Fiction
+50th Anniversary Edition
+2
+0
+0
+324
+11
+7
+1960
+A Brief History of Time
+Stephen Hawking
+Science
+10th Anniversary Edition
+3
+0
+0
+256
+1
+4
+1988
+The C++ Programming Language
+Bjarne Stroustrup
+Programming
+4th Edition
+4
+0
+0
+1376
+19
+5
+2013
+Artificial Intelligence: A Modern Approach
+Stuart Russell, Peter Norvig
+Computer Science
+4th Edition
+5
+0
+0
+1136
+12
+4
+2020
+1984
+George Orwell
+Dystopian Fiction
+Reprint Edition
+6
+0
+0
+328
+8
+6
+1949
+The Feynman Lectures on Physics
+Richard Feynman
+Physics
+Definitive Edition
+7
+1
+1
+1552
+1
+1
+2011
+Atomic Habits
+James Clear
+Self-Help
+1st Edition
+8
+0
+0
+320
+16
+10
+2018
+Sapiens: A Brief History of Humankind
+Yuval Noah Harari
+History
+Updated Edition
+9
+0
+0
+512
+10
+2
+2015
+Freakonomics
+Steven D. Levitt, Stephen J. Dubner
+Economics
+Revised Edition
+10
+0
+0
+336
+12
+10
+2006
+Dune
+Frank Herbert
+Science Fiction
+50th Anniversary Edition
+11
+0
+0
+896
+1
+8
+1965
+Design Patterns: Elements of Reusable Object-Oriented Software
+Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides
+Computer Science
+1st Edition
+12
+2
+1
+395
+21
+10
+1994
+Meditations
+Marcus Aurelius
+Philosophy
+Penguin Classics Edition
+13
+0
+0
+304
+1
+1
+2006
+Man's Search for Meaning
+Viktor E. Frankl
+Psychology
+Revised Edition
+14
+0
+0
+200
+16
+6
+1959
+Pride and Prejudice
+Jane Austen
+Classic Literature
+Penguin Classics Edition
+15
+0
+0
+432
+28
+1
+1813
+Cosmos
+Carl Sagan
+Science
+40th Anniversary Edition
+16
+0
+0
+432
+1
+10
+1980
+The Great Gatsby
+F. Scott Fitzgerald
+Classic Literature
+Reprint Edition
+17
+0
+0
+180
+10
+4
+1925
+The Hobbit
+J.R.R. Tolkien
+Fantasy
+75th Anniversary Edition
+18
+3
+1
+310
+21
+9
+1937
+The Lean Startup
+Eric Ries
+Business
+1st Edition
+19
+0
+0
+336
+13
+9
+2011
+The Art of War
+Sun Tzu
+Military Strategy
+Deluxe Edition
+20
+0
+0
+273
+5
+1
+2005
+The Da Vinci Code
+Dan Brown
+Mystery
+Illustrated Edition
+21
+0
+0
+592
+18
+3
+2003
+The Alchemist
+Paulo Coelho
+Philosophical Fiction
+25th Anniversary Edition
+22
+0
+0
+208
+1
+1
+1993
+The Silent Patient
+Alex Michaelides
+Psychological Thriller
+1st Edition
+23
+0
+0
+325
+5
+2
+2019
+The Power of Now
+Eckhart Tolle
+Spirituality
+Revised Edition
+24
+0
+0
+236
+1
+1
+2004
+The Martian
+Andy Weir
+Science Fiction
+Movie Tie-in Edition
+25
+0
+0
+369
+11
+2
+2014
+The Subtle Art of Not Giving a F*ck
+Mark Manson
+Self-Help
+1st Edition
+26
+0
+0
+224
+13
+9
+2016
+The Lord of the Rings
+J.R.R. Tolkien
+Fantasy
+50th Anniversary Edition
+27
+0
+0
+1178
+29
+7
+1954
+The Hitchhiker's Guide to the Galaxy
+Douglas Adams
+Science Fiction
+Ultimate Edition
+28
+0
+0
+224
+12
+10
+1979
+The Catcher in the Rye
+J.D. Salinger
+Coming-of-Age
+Reprint Edition
+29
+0
+0
+234
+16
+7
+1951
+The Girl with the Dragon Tattoo
+Stieg Larsson
+Crime Fiction
+Millennium Edition
+30
+0
+0
+672
+1
+8
+2005
+The Seven Husbands of Evelyn Hugo
+Taylor Jenkins Reid
+Historical Fiction
+1st Edition
+31
+0
+0
+400
+13
+6
+2017
+The Name of the Wind
+Patrick Rothfuss
+Fantasy
+10th Anniversary Edition
+32
+0
+0
+662
+27
+3
+2007
+The Psychology of Money
+Morgan Housel
+Finance
+1st Edition
+33
+0
+0
+242
+8
+9
+2020
+The Midnight Library
+Matt Haig
+Fantasy Fiction
+1st Edition
+34
+0
+0
+304
+13
+8
+2020
+The Book Thief
+Markus Zusak
+Historical Fiction
+Reprint Edition
+35
+0
+0
+584
+14
+3
+2006
+The Four Agreements
+Don Miguel Ruiz
+Spirituality
+Toltec Wisdom Edition
+36
+0
+0
+160
+7
+11
+1997
+Educated
+Tara Westover
+Memoir
+1st Edition
+37
+0
+0
+334
+20
+2
+2018
+The Song of Achilles
+Madeline Miller
+Historical Fiction
+10th Anniversary Edition
+38
+0
+0
+378
+20
+9
+2011
+Thinking, Fast and Slow
+Daniel Kahneman
+Psychology
+1st Edition
+39
+4
+1
+499
+25
+10
+2011
+The Vanishing Half
+Brit Bennett
+Literary Fiction
+1st Edition
+40
+0
+0
+343
+2
+6
+2020
+The House in the Cerulean Sea
+TJ Klune
+Fantasy
+1st Edition
+41
+0
+0
+398
+17
+3
+2020
+The Road
+Cormac McCarthy
+Post-Apocalyptic
+Reprint Edition
+42
+0
+0
+287
+26
+9
+2006
+The Five Love Languages
+Gary Chapman
+Relationships
+25th Anniversary Edition
+43
+0
+0
+208
+1
+1
+1995
+The Stand
+Stephen King
+Horror
+Uncut Edition
+44
+0
+0
+1153
+1
+1
+1990
+The Handmaid's Tale
+Margaret Atwood
+Dystopian
+Reprint Edition
+45
+0
+0
+311
+1
+1
+1985
+The Sun Also Rises
+Ernest Hemingway
+Classic Literature
+Reprint Edition
+46
+0
+0
+251
+22
+10
+1926
+The Immortal Life of Henrietta Lacks
+Rebecca Skloot
+Biography
+1st Edition
+47
+0
+0
+381
+2
+2
+2010
+The Giver
+Lois Lowry
+Dystopian
+Reprint Edition
+48
+0
+0
+240
+1
+1
+1993
+The Kite Runner
+Khaled Hosseini
+Historical Fiction
+10th Anniversary Edition
+49
+0
+0
+371
+29
+5
+2003
+The Fault in Our Stars
+John Green
+Young Adult
+1st Edition
+50
+0
+0
+313
+10
+1
+2012
